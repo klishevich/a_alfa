@@ -1,0 +1,24 @@
+{
+  "name": "aaa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-babel": "rimraf .build-babel/ && babel decorators.js --out-dir .build-babel/",
+    "start": "npm run build-babel && node .build-babel/decorators.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "arui-feather": "^12.7.1",
+    "lodash": "^4.17.5"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-plugin-transform-decorators": "^6.24.1",
+    "babel-plugin-transform-decorators-legacy": "^1.3.4",
+    "babel-preset-env": "^1.6.1",
+    "rimraf": "^2.6.2"
+  }
+}

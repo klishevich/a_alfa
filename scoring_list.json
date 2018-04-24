@@ -1,0 +1,241 @@
+[
+    {
+        "id": "AF-1683",
+        "title": "АО \"ЖДК\" (pega)",
+        "inn": "3448026110",
+        "urgent": false,
+        "completed": false,
+        "declined": false,
+        "documentsReady": false,
+        "type": "ORDER_TYPE_NEW_CLIENT",
+        "comment": "",
+        "modified": 1502272043158,
+        "status": {
+            "name": "Проверка",
+            "code": "verification",
+            "draft": false
+        }
+    },
+    {
+        "id": "AF-16833",
+        "title": "АО \"ЖДК 2\"",
+        "inn": "3448026110",
+        "urgent": false,
+        "completed": false,
+        "declined": false,
+        "documentsReady": false,
+        "type": "ORDER_TYPE_NEW_CLIENT",
+        "comment": "",
+        "modified": 1502272043158,
+        "status": {
+            "name": "Проверка",
+            "code": "unknown",
+            "draft": false
+        }
+    },
+    {
+        "id": "2",
+        "title": "ООО \"Пирожковая №1\"",
+        "inn": "7233413624",
+        "urgent": true,
+        "completed": false,
+        "declined": false,
+        "documentsReady": true,
+        "comment": "Ждем в гости на подписание",
+        "type": "ORDER_TYPE_NEW_CLIENT",
+        "modified": 1502363538538,
+        "status": {
+            "name": "Подписание документов",
+            "code": "signing",
+            "draft": false
+        }
+    },
+    {
+        "id": "AF-1000",
+        "title": "ЗАО \"МММ\" (pega-rework)",
+        "inn": "7738216622",
+        "urgent": true,
+        "completed": false,
+        "declined": false,
+        "documentsReady": false,
+        "comment": "Нужно подгрузить новый читабельный паспорт",
+        "type": "ORDER_TYPE_NEW_CLIENT",
+        "modified": 1502363538538,
+        "status": {
+            "name": "Требуется доработка",
+            "code": "rework",
+            "draft": false
+        }
+    },
+    {
+        "id": "eyJvcmRlcklkIjoiQUJSLU1CLUFDQ01HTVQtV09SSyBBRi0yNTIxIiwic3lzdGVtQ29kZSI6IlBSUEMifQ",
+        "title": "ЗАО \"К.И.Ж.И.\" (pega-signing2)",
+        "inn": "7703714386",
+        "urgent": true,
+        "completed": false,
+        "declined": false,
+        "documentsReady": false,
+        "comment": "Готово к подписанию",
+        "type": "ORDER_TYPE_NEW_CLIENT",
+        "modified": 1515599803417,
+        "status": {
+            "name": "Готово к подписанию",
+            "code": "signing",
+            "draft": false
+        }
+    },
+    {
+        "id": "AF-1001",
+        "title": "ЗАО \"МММ 2\" (pega-signing)",
+        "inn": "7738216622",
+        "urgent": true,
+        "completed": false,
+        "declined": false,
+        "documentsReady": false,
+        "comment": "Готово к подписанию",
+        "type": "ORDER_TYPE_NEW_CLIENT",
+        "modified": 1502363538538,
+        "status": {
+            "name": "Подписание",
+            "code": "signing",
+            "draft": false
+        }
+    },
+    {
+        "id": "33",
+        "title": "ИП Деточкин Юрий",
+        "inn": "7124512266",
+        "type": "ORDER_TYPE_NEW_CLIENT",
+        "urgent": true,
+        "completed": false,
+        "declined": false,
+        "documentsReady": false,
+        "comment": "А где устав?",
+        "modified": 1502463518538,
+        "status": {
+            "name": "Требуется доработка",
+            "code": "rework",
+            "draft": false
+        }
+    },
+    {
+        "id": "4",
+        "title": "ИП Вассерман Савелий Васильевич (а так же очень длинное название компании которое не влезает ни в 1 мыслимый экран)",
+        "inn": "720543823135",
+        "type": "ORDER_TYPE_NEW_CLIENT",
+        "urgent": false,
+        "completed": true,
+        "declined": false,
+        "documentsReady": false,
+        "comment": "Очень длинный комментарий, о том, что все ок! Очень длинный комментарий, о том, что все ок! Очень длинный комментарий, о том, что все ок! Очень длинный комментарий, о том, что все ок! Очень длинный комментарий, о том, что все ок! Очень длинный комментарий, о том, что все ок! Очень длинный комментарий, о том, что все ок! Очень длинный комментарий, о том, что все ок! ",
+        "modified": 1502672043158,
+        "status": {
+            "name": "Активировано",
+            "code": "activated",
+            "draft": false
+        }
+    },
+    {
+        "id": "AF-9001",
+        "title": "ООО \"Не самая чистая компания\" (pega-declined)",
+        "inn": "7753342714",
+        "type": "ORDER_TYPE_NEW_CLIENT",
+        "urgent": false,
+        "completed": false,
+        "declined": true,
+        "documentsReady": false,
+        "comment": "Все ой как плохо",
+        "modified": 1502364308904,
+        "status": {
+            "name": "Отклонено",
+            "code": "declined",
+            "draft": false
+        }
+    },
+    {
+        "id": "6",
+        "title": "ООО \"Костыль\"",
+        "inn": "7443342214",
+        "urgent": false,
+        "completed": false,
+        "declined": true,
+        "type": "ORDER_TYPE_NEW_CLIENT",
+        "documentsReady": false,
+        "comment": "ЕЩЕ ХУЖЕ",
+        "modified": 1502364304904,
+        "status": {
+            "name": "Отклонено",
+            "code": "declined",
+            "draft": false
+        }
+    },
+    {
+        "id": "11",
+        "title": "ИП Бендер Остап Ибрагимович",
+        "inn": "770890123187",
+        "urgent": false,
+        "completed": false,
+        "type": "ORDER_TYPE_NEW_CLIENT",
+        "declined": false,
+        "documentsReady": false,
+        "comment": "",
+        "modified": 1502292043158,
+        "status": {
+            "name": "Дубликат",
+            "code": "duplicate",
+            "draft": false
+        }
+    },
+    {
+        "id": "59b63dcf83630f00011e25a0q",
+        "title": "ОАО \"НИИКМА 0\" (draft-reserve, can be deleted)",
+        "inn": "3127000159",
+        "type": "ORDER_TYPE_NEW_CLIENT",
+        "comment": null,
+        "modified": 1502377039536,
+        "status": {
+            "name": "Черновик",
+            "code": "draft_new",
+            "draft": true
+        }
+    },
+    {
+        "id": "59b63dcf83630f00011e25a1q",
+        "title": "ОАО \"НИИКМА 1\" (draft-services)",
+        "inn": "3127000151",
+        "type": "ORDER_TYPE_NEW_CLIENT",
+        "comment": null,
+        "modified": 1502377039536,
+        "status": {
+            "name": "Черновик",
+            "code": "draft_new",
+            "draft": true
+        }
+    },
+    {
+        "id": "59b63dcf83630f00011e25a2q",
+        "title": "ОАО \"НИИКМА 2\" (draft-quest)",
+        "inn": "3127000152",
+        "type": "ORDER_TYPE_NEW_CLIENT",
+        "comment": null,
+        "modified": 1502377039536,
+        "status": {
+            "name": "Черновик",
+            "code": "draft_new",
+            "draft": true
+        }
+    },
+    {
+        "id": "59b63dcf83630f00011e27777",
+        "title": "ОАО \"НИИКМА 3\" (draft-declined-quest)",
+        "inn": "3127000153",
+        "type": "ORDER_TYPE_NEW_CLIENT",
+        "comment": null,
+        "modified": 1502377039536,
+        "status": {
+            "name": "Черновик",
+            "code": "draft_declined",
+            "draft": true
+        }
+    }
+]
