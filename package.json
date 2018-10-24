@@ -12,6 +12,8 @@
   "license": "ISC",
   "dependencies": {
     "arui-feather": "^12.7.1",
+    "benchmark": "^2.1.4",
+    "immutable": "^3.8.2",
     "lodash": "^4.17.5"
   },
   "devDependencies": {
